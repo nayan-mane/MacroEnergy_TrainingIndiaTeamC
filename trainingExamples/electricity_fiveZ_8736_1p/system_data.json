@@ -15,7 +15,7 @@
                 "path": "assets"
             },
             "time_data": {
-                "path": "system/time_data.json"
+                "path": "system/time_data_V1.json"
             },
             "nodes": {
                 "path": "system/nodes.json"
