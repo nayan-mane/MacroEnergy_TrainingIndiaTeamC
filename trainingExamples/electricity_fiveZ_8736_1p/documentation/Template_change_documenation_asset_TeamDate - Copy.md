@@ -15,23 +15,27 @@ Select the "base" version of one asset and re-paramterize its inputs (capacity, 
 # Change documented  
 
 ## Asset Chosen:
+VRE_Solar
 
 ## Aspect altered:
+VRE availability for Solar
 
 ## Resources accessed to make alteration:
+PIER Supply
 
 ## Parameters/Inputs modified:
-1. A
+1. A VRE for all 5 zones for 2023-2024 for 8760 hours.
 2. B
 3. C
 
 ## Verified how?
 
 ## Verified with run of Macro?
-Y/N
+Y/N: Yes
 Details
+Ran for 3 and 52 weeks both.
 
 ## Limitations/Cautions/Further work needed
-1. A
+1. A 
 2. B
 3. C
